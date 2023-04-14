@@ -16,9 +16,10 @@ add features but as of right it is playable, and you are able to win games.
 
 
 - The game has options to roll dice, buy, pay rent, and advance to next turn. <br>
-  ![game flow 1](monopoly_output.gif)
-<br>
-  ![game flow 2](monopoly_output2.gif)
+  
+![game flow 1](monopoly_output.gif) <br>
+  
+![game flow 2](monopoly_output2.gif)
 
 ## Features
 
